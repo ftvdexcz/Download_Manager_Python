@@ -1,0 +1,7 @@
+project_env/
+project_venv/
+.vscode/*
+*.ini
+__pycache__/
+temp/
+downloads/
